@@ -1,0 +1,16 @@
+  {
+
+  "AllAdsId" : {
+      
+    "AdmobAppId" : "ca-app-pub-3940256099942544~3347511713",
+    "AdmobBannerId" : "",
+    "admobBnnerRECTANGLE" : "",
+	"AdmobInterstitialId" : "",
+	"AdmobNativeId" : "",
+	"FacebookbBannerId" : "137543448348236_137544281681486",
+	"FacebookbrRECTANGLE" : "137543448348236_137544271681487",
+	"FacebookInterstitialId" : "137543448348236_137543861681528",
+	"FacebookNativeId"   :  "137543448348236_137544285014819",
+	"Yodo1AdvertAppKey" : ""
+  }
+}
