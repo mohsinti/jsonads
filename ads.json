@@ -1,57 +1,16 @@
-{
-	"GOOGLE_INTERSTITIAL":"ca-app-pub-3940256099942544/1033173712p",
-	"GOOGLE_NATIVE":"ca-app-pub-3940256099942544/2247696110p",
-	"GOOGLE_NATIVE1":"ca-app-pub-3940256099942544/2247696110p",
-	"GOOGLE_NATIVEBANNER":"ca-app-pub-3940256099942544/2247696110p",
-	"GOOGLE_NATIVEBANNER1":"ca-app-pub-3940256099942544/2247696110p",
-	"GOOGLE_BANNER":"ca-app-pub-3940256099942544/6300978111p",
-	"GOOGLE_BANNER1":"ca-app-pub-3940256099942544/6300978111p",
-	
-	"GOOGLE_INTERSTITIALBEDDING1":"ca-app-pub-3940256099942544/1033173712p",
-	"GOOGLE_NATIVEBEDDING1":"ca-app-pub-3940256099942544/2247696110p",
-	"GOOGLE_NATIVE1BEDDING1":"ca-app-pub-3940256099942544/2247696110p",
-	"GOOGLE_NATIVEBANNERBEDDING1":"ca-app-pub-3940256099942544/2247696110p",
-	"GOOGLE_NATIVEBANNER1BEDDING1":"ca-app-pub-3940256099942544/2247696110p",
-	"GOOGLE_BANNERBEDDING1":"ca-app-pub-3940256099942544/6300978111p",
-	"GOOGLE_BANNER1BEDDING1":"ca-app-pub-3940256099942544/6300978111p",
-	
-	"GOOGLE_INTERSTITIALBEDDING2":"ca-app-pub-3940256099942544/1033173712",
-	"GOOGLE_NATIVEBEDDING2":"ca-app-pub-3940256099942544/2247696110",
-	"GOOGLE_NATIVE1BEDDING2":"ca-app-pub-3940256099942544/2247696110",
-	"GOOGLE_NATIVEBANNERBEDDING2":"ca-app-pub-3940256099942544/2247696110",
-	"GOOGLE_NATIVEBANNER1BEDDING2":"ca-app-pub-3940256099942544/2247696110",
-	"GOOGLE_BANNERBEDDING2":"ca-app-pub-3940256099942544/6300978111",
-	"GOOGLE_BANNER1BEDDING2":"ca-app-pub-3940256099942544/6300978111",
-	
+  {
 
-
-	
-
-    	"NATIVESWITCHBANNER":"false",
-    	"FACEBOOKADSFIRST":"false",
-  
-
-	
-	"moreappsgrid":[
-					{
-						"picture":"https://play-lh.googleusercontent.com/NNXBw4aNAivDnsXsvH8cRNgI03ygGcr9l8KF3hAj_IS9WshnP5NlRNYP2_t85OYsYJWR=s180-rw",
-						"link":"https://play.google.com/store/apps/details?id=com.nicksfreefirenamesgen1",
-						"name":"Nicknames for games",
-						"type":"install"
-					},
-					{
-						"picture":"https://play-lh.googleusercontent.com/NNXBw4aNAivDnsXsvH8cRNgI03ygGcr9l8KF3hAj_IS9WshnP5NlRNYP2_t85OYsYJWR=s180-rw",
-						"link":"https://play.google.com/store/apps/details?id=com.nicksfreefirenamesgen1",
-						"name":"Nicknames for games",
-						"type":"install"
-					}
-			
-					
-					
-				
-	]
-        
-       
-
-
+  "AllAdsId" : {
+      
+    "AdmobAppId" : "ca-app-pub-3940256099942544~3347511713",
+    "AdmobBannerId" : "ca-app-pub-3940256099942544/6300978111",
+    "admobBnnerRECTANGLE" : "",
+	"AdmobInterstitialId" : "ca-app-pub-3940256099942544/1033173712",
+	"AdmobNativeId" : "ca-app-pub-3940256099942544/8135179316",
+	"FacebookbBannerId" : "",
+	"FacebookbrRECTANGLE" : "",
+	"FacebookInterstitialId" : "",
+	"FacebookNativeId"   :  "",
+	"Yodo1AdvertAppKey" : ""
+  }
 }
